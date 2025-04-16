@@ -29,6 +29,11 @@ body{
     flex-wrap: wrap;
 }
 
+.navbar-left p{
+    font-size: 25px;
+    position: absolute;
+}
+
 .logo {
     max-height: 150px;
     width: auto;
