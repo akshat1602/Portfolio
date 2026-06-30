@@ -1,4 +1,4 @@
-# Akshat Trivedi Portfolio
+# Akshat's Portfolio
 
 A fully responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase my profile, skills, projects, experience, and contact details. The site features a clean modern aesthetic, smooth navigation, interactive hover states, theme switching, and a mobile-friendly layout.
 
