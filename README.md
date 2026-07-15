@@ -41,20 +41,6 @@ Portfolio/
 │   └── My-image (1).jpg
 ```
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-   ```
-
-2. Open the project folder:
-   ```bash
-   cd portfolio
-   ```
-
-3. Open `index.html` in your browser.
-
 ## Preview
 <img width="1895" height="912" alt="image" src="https://github.com/user-attachments/assets/3b91c3f6-498e-4114-ac73-95be652111ea" />
 
